@@ -17,7 +17,7 @@
           "pubs": 10523,
         },
         {
-          "name": "Conf Papers"
+          "name": "Conf Papers",
           "pubs": 3
         },
         {
@@ -29,8 +29,8 @@
           "pubs": 98
         },
         {
-          "name": "SOme"
-          "pubs": 3,
+          "name": "SOme",
+          "pubs": 3
         },
       ]
     },
