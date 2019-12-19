@@ -33,54 +33,6 @@
           "pubs": 3
         },
       ]
-    },
-    "faculty": {
-      "image":"",
-      "label": "Faculty",
-      "entries": [
-        {
-          "name": "Lorem Ipsum Et Long Name",
-          "image": "",
-          "title": "Alumnus"
-        },
-        {
-          "name": "Na tiom",
-          "image": "",
-          "title": "Faculty member adjunct"
-        },
-        {
-          "name": "Ping Ling",
-          "image": "",
-          "title": "Alumnus"
-        },
-        {
-          "name": "Rachelle Race",
-          "image": "",
-          "title": "other"
-        }
-
-      ]
-    },
-    "departments": {
-      "image": "",
-      "label": "Departamentos",
-      "entries": [
-        {
-          "name": "NeuroScience",
-        },
-        {
-          "name": "AlfaBeta",
-        },
-        {
-          "name": "Gama theta molecular",
-        },
-        {
-          "name": "photons neutrons neurons",
-        },
-        {
-          "name": "stars and galaxy",
-        }
-      ]
     }
   ]
 
