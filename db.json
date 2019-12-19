@@ -1,87 +1,91 @@
 {
   "hcards": [
-    {  "research": {
-      "image": "",
-      "label": "Research Center",
-      "entries": [
-        {
-          "name": "Academic Articles",
-          "pubs": 43553
-        },
-        {
-          "name": "Books",
-          "pubs": 9843
-        },
-        {
-          "name": "Chapters",
-          "pubs": 10523,
-        },
-        {
-          "name": "Conf Papers",
-          "pubs": 3
-        },
-        {
-          "name": "Edited Books",
-          "pubs": 84
-        },
-        {
-          "name": "Reports",
-          "pubs": 98
-        },
-        {
-          "name": "SOme",
-          "pubs": 3
-        },
-      ]
+    {
+      "research": {
+        "image": "",
+        "label": "Research Center",
+        "entries": [
+          {
+            "name": "Academic Articles",
+            "pubs": 43553
+          },
+          {
+            "name": "Books",
+            "pubs": 9843
+          },
+          {
+            "name": "Chapters",
+            "pubs": 10523,
+          },
+          {
+            "name": "Conf Papers",
+            "pubs": 3
+          },
+          {
+            "name": "Edited Books",
+            "pubs": 84
+          },
+          {
+            "name": "Reports",
+            "pubs": 98
+          },
+          {
+            "name": "SOme",
+            "pubs": 3
+          },
+        ]
+      }
     },
-    { "faculty": {
-      "image":"",
-      "label": "Faculty",
-      "entries": [
-        {
-          "name": "Lorem Ipsum Et Long Name",
-          "image": "",
-          "title": "Alumnus"
-        },
-        {
-          "name": "Na tiom",
-          "image": "",
-          "title": "Faculty member adjunct"
-        },
-        {
-          "name": "Ping Ling",
-          "image": "",
-          "title": "Alumnus"
-        },
-        {
-          "name": "Rachelle Race",
-          "image": "",
-          "title": "other"
-        }
-
-      ]
+    {
+      "faculty": {
+        "image":"",
+        "label": "Faculty",
+        "entries": [
+          {
+            "name": "Lorem Ipsum Et Long Name",
+            "image": "",
+            "title": "Alumnus"
+          },
+          {
+            "name": "Na tiom",
+            "image": "",
+            "title": "Faculty member adjunct"
+          },
+          {
+            "name": "Ping Ling",
+            "image": "",
+            "title": "Alumnus"
+          },
+          {
+            "name": "Rachelle Race",
+            "image": "",
+            "title": "other"
+          }
+        ]
+      }
     },
-    { "departments": {
-      "image": "",
-      "label": "Departamentos",
-      "entries": [
-        {
-          "name": "NeuroScience"
-        },
-        {
-          "name": "AlfaBeta"
-        },
-        {
-          "name": "Gama theta molecular"
-        },
-        {
-          "name": "photons neutrons neurons"
-        },
-        {
-          "name": "stars and galaxy"
-        }
-      ]
+    {
+      "departments": {
+        "image": "",
+        "label": "Departamentos",
+        "entries": [
+          {
+            "name": "NeuroScience"
+          },
+          {
+            "name": "AlfaBeta"
+          },
+          {
+            "name": "Gama theta molecular"
+          },
+          {
+            "name": "photons neutrons neurons"
+          },
+          {
+            "name": "stars and galaxy"
+          }
+        ]
+      }
     }
-
   ]
 }
