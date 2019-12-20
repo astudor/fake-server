@@ -1,7 +1,6 @@
 {
-  "hcards": [
-    {
-      "research": {
+  "hcards": {
+    "research": {
         "image": "",
         "label": "Research Center",
         "entries": [
@@ -34,10 +33,9 @@
             "pubs": 3
           }
         ]
-      }
     },
-    {
-      "faculty": {
+
+    "faculty": {
         "image":"",
         "label": "Faculty",
         "entries": [
@@ -62,10 +60,8 @@
             "title": "other"
           }
         ]
-      }
     },
-    {
-      "departments": {
+    "departments": {
         "image": "",
         "label": "Departamentos",
         "entries": [
@@ -85,7 +81,6 @@
             "name": "stars and galaxy"
           }
         ]
-      }
     }
-  ]
+  }  
 }
